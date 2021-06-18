@@ -14,5 +14,5 @@ else
     		-Dsonar.projectBaseDir=${INPUT_PROJECTBASEDIR} \
     		-Dsonar.login=${INPUT_LOGIN} \
     		-Dsonar.password=${INPUT_PASSWORD} \
-		-Dsonar.branch.name=master
+		-Dsonar.branch.name=develop
 fi
